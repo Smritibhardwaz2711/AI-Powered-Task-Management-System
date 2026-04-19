@@ -1,6 +1,11 @@
 # 🤖 AI Powered Task Management System
 
 An intelligent task management system that uses AI to help users organize tasks, improve productivity, prioritize work, and automate daily planning. This project combines smart recommendations with an easy-to-use interface for efficient task handling.
+**📸 Screenshots**
+(https://drive.google.com/drive/folders/1J--97WUQBDkPqvgrZ4oDFJ89eQ0Epl4l?usp=sharing)
+
+**🎬 Demo Video**
+[▶ Watch Demo Video](https://drive.google.com/file/d/1v9Ks1x8f1rk--1IAP2hX3zMgpLcZk6In/view?usp=sharing))
 
 
 ## 📌 Project Overview
