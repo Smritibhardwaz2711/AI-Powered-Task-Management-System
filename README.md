@@ -2,11 +2,15 @@
 
 An intelligent task management system that uses AI to help users organize tasks, improve productivity, prioritize work, and automate daily planning. This project combines smart recommendations with an easy-to-use interface for efficient task handling.
 **📸 Screenshots**
+![loading models](https://github.com/Smritibhardwaz2711/AI-Powered-Task-Management-System/blob/b7d531179f500d02d51721f669a88af795efcf6b/1st.png)
+![Dashboard](https://github.com/Smritibhardwaz2711/AI-Powered-Task-Management-System/blob/b7d531179f500d02d51721f669a88af795efcf6b/2nd.png))
+![Task Submmition](https://github.com/Smritibhardwaz2711/AI-Powered-Task-Management-System/blob/b7d531179f500d02d51721f669a88af795efcf6b/4th.png)
+![Alerts](https://github.com/Smritibhardwaz2711/AI-Powered-Task-Management-System/blob/b7d531179f500d02d51721f669a88af795efcf6b/6th.png)
+![Data Export](https://github.com/Smritibhardwaz2711/AI-Powered-Task-Management-System/blob/b7d531179f500d02d51721f669a88af795efcf6b/7th.png)
 (https://drive.google.com/drive/folders/1J--97WUQBDkPqvgrZ4oDFJ89eQ0Epl4l?usp=sharing)
 
 **🎬 Demo Video**
-[▶ Watch Demo Video](https://drive.google.com/file/d/1v9Ks1x8f1rk--1IAP2hX3zMgpLcZk6In/view?usp=sharing))
-
+[▶ Watch Demo Video](https://github.com/Smritibhardwaz2711/AI-Powered-Task-Management-System/blob/d864ac8b08efad0a47a6f5a03ec41c6fc9d511ce/Demo%20viedo.mp4)
 
 ## 📌 Project Overview
 
